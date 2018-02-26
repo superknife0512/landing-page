@@ -1,0 +1,237 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+.top{
+	width: 100%;
+    background: black;
+    height: 70px;
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.cart1{
+	float: right;
+	padding-top: 13px;
+	text-align: center;
+}
+
+.cart1 p{
+	color: white;
+	margin: 2px;
+}
+
+.cart1 a:link{
+	color: white;
+	text-decoration: none;
+}
+
+.cart1 a:hover{
+	color: gray;
+}
+.logo{
+	text-align: center;
+	border-bottom: solid 1px #d6d6d6;
+}
+
+.logo a:link, .logo a:visited{
+	color:black;
+	text-decoration: none;
+}
+
+#dl{
+	width: 70%;
+    height: 60px;
+    float: left;
+    margin-top: 5px;
+}
+
+#dr{
+	width: 30%;
+    height: 60px;
+    float: left;
+    margin-top: 5px;
+}
+
+#dl ul li{
+	float: left;
+	padding-right: 44px;
+}
+
+#dl ul li a:link{
+	color: black;
+	text-decoration: none;
+}
+
+
+#dl ul li a:visited{
+	color: black;
+}
+
+
+#dl ul li a:hover{
+	color: #9af0ff;
+}
+
+#dr{
+	position: relative;
+}
+
+#btnsearch{
+	background: url(images/search.png) no-repeat;
+	padding-left: 20px;
+    border: none;
+    cursor: pointer;
+    float: right;
+    position: absolute;
+    right: 0%;
+    top: 24%;
+    padding:11px;
+}
+
+#txtsearch{
+	border: solid 1px #e2e2e2;
+    padding: 16px;
+    padding-top: 15px;
+    float: right;
+    border: none;
+
+}
+
+.banner img{
+	width: 100%;
+}
+
+.sp1{
+	padding-top: 50px;
+}
+
+.spp1{
+	padding-right: 37px; 
+}
+
+
+
+.watch1{
+	text-align: center;
+	border: solid 1px #d2d2d2;
+	padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.info h4, .info h5{
+	color: #696969;
+}
+
+.info h3, .info h4, .info h5{
+	margin: 2px;
+}
+
+.sp2{
+	height: 800px;
+}
+
+.spp2{
+	margin-top: 30px;
+}
+
+.spp2.2{
+	margin-bottom: 20px;
+}
+
+
+
+.info a:link, .info a:visited{
+	color: #b1b1b1;
+	text-decoration: none;
+}
+
+.info1 ul{
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	padding-top: 10px;
+}
+
+#facebook{
+	background: url(images/s-icons.png);
+	display: inline-block;
+	height: 34px;
+    width: 34px;
+    background-position: 0 0;
+}
+
+#twitter{
+	background: url(images/s-icons.png);
+	display: inline-block;
+	height: 34px;
+    width: 34px;
+    background-position: -34px 0;
+}
+
+#google{
+	background: url(images/s-icons.png);
+	display: inline-block;
+	height: 34px;
+    width: 34px;
+    background-position: -68px 0;
+}
+
+.txtinfo{
+	display: inline-block;
+    vertical-align: middle;
+    margin-top: -24px;
+    padding-left: 4px;
+}
+
+.info1 ul li{
+	margin-top: 10px;
+}
+
+.info1 ul li a{
+	padding-bottom: 10px;
+}
+
+.info1 ul li a:hover{
+	color: #70e4ff; 
+}
+
+.info1{
+	float: left;
+	padding-left: 100px;
+	padding-right:100px;
+}
+
+#hrr{
+	float: left;
+	width: 1170px;
+}
+
+.sub{
+	float: left;
+    height: 100px;
+}
+
+#txt1{
+	padding: 15px;
+    padding-right: 107px;
+    border: solid 1px;
+}
+
+#subbtn{
+	background: none;
+    border: solid 1px;
+    margin: 8px;
+    padding: 15px;
+   
+}
